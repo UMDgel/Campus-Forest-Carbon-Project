@@ -1,7 +1,7 @@
 # Campus-Forest-Carbon-Project: 
 These models accompany Appendix  B.2 and Appendix C.2 within the University of Maryland's Peer-Review Offset Protocol for Maryland Reforestation/Afforestation Projects. 
 
-Prior to downloading the code users must install the most recent, updated version of Jupyter Notebook or other program that can run Python scripts. Users must also download ArcGIS 10.8.1 or the most current release of ArcGIS as these models use the ArcPy library. If you do not have an ArcGIS license, we reccomended replicating our methodology with other open-acess GIS software such as QGIS. 
+Prior to downloading the code users must install the most recent, updated version of Jupyter Notebook or Python friendly environment. Users must also download ArcGIS 10.8.1 or the most current release of ArcGIS as these models use the ArcPy library. If you do not have an ArcGIS license, we reccomended replicating our methodology with other open-acess GIS software such as QGIS. 
 
 All data necessary to run the models and more details on the Ecosystem Demography data products derived from NASA Carbon Monitoring System science and further literatureare provided here:
 - [Simulated forest aboveground biomass data for the first 300 years of forest succession over the Regional Greenhouse Gas Domain](10.5281/zenodo.6506453)
