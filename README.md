@@ -5,7 +5,7 @@ Prior to downloading the code users must install the most recent, updated versio
 
 All data necessary to run the models and more details on the Ecosystem Demography data products derived from NASA Carbon Monitoring System science and further literature are provided here:
 - [Simulated forest aboveground biomass data for the first 300 years of forest succession over the Regional Greenhouse Gas Domain](10.5281/zenodo.6506453)
-- [Forest aboveground biomass from 1984-2016 for the state of MD](10.5281/zenodo.6506502)
+- [Forest aboveground biomass from 1984-2016 for the state of MD](10.5281/zenodo.6506502) 
 
 If using a Jupyter environment, download the code as a .ipynb file (recommended). If using another coding environment, download and open as a .py file.
 Because these models are only templates, we reccommended making a copy and editing variable and file path names on the duplicate model. Be sure to also first set up your work space (where you will pull data from and save files to) before running each model. For further detailed instructions, please see comments in the models.
