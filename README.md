@@ -24,5 +24,5 @@ This second model estimates a forest project's carbon dynamics over a specified 
 
 To calculate the carbon flux values, subtract carbon stock values from the newer to older year (e.g., 2020 carbon stock - 2019 carbon stock). This value is the total projected amount of carbon accumulated since that last year. Complete carbon monitoring can be developed by calculating the carbon flux and assessing changes to the flux values for an entire time period. 
 
-For any questions, suggestions, or concerns please contact CFCP@umd.edu
+For any questions, suggestions, or concerns please contact CFCP-help@umd.edu
 
